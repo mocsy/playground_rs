@@ -1,0 +1,9 @@
+[package]
+name = "semitone"
+version = "0.1.0"
+authors = ["mocsy <amocsy@gmail.com>"]
+
+[dependencies]
+rustfft = "2.1.0"
+rand = "0.5.5"
+primal = "0.2.3"
