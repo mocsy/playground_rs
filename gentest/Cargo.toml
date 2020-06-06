@@ -1,0 +1,6 @@
+[package]
+name = "gentest"
+version = "0.1.0"
+authors = ["Andras Mocsary <nobody@reedwolf.com>"]
+
+[dependencies]
